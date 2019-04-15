@@ -110,7 +110,6 @@ class SortRow extends React.Component {
         position: 'absolute',
         left: 0,
         right: 0,
-        opacity: props.activeOpacity || 0.2,
         height: layout.frameHeight,
         overflow: 'hidden',
         backgroundColor: 'transparent',
